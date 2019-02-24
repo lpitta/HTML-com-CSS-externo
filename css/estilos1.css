@@ -8,9 +8,10 @@ body {
   border-width: 5px;
 }
 
-/* deixando o fundo ridículo */
+/* deixando o fundo ridÃ­culo */
 body {
-  background: ;
+  background: #b3d9ff;
+  /* Escolher o codigo da cor aqui https://www.w3schools.com/colors/colors_picker.asp */
 }
 
 #cabecalho {
@@ -25,7 +26,7 @@ body {
 }
 
 h1 {
-  background-image: url(sobre-background.jpg);
+  background-image: url(imagens/sobre-background.jpg);
 }
 
 h3 {
@@ -34,13 +35,13 @@ h3 {
 }
 
 p {
-background-color: ;
+background-color: #ffff80;
 color: #2B6B2B;
 }
 
 p {
   line-height: 10px; /* tamanho da altura de cada linha */
-  letter-spacing: 2px; /* tamanho do espaço entre cada letra */
-  word-spacing: 10px; /* tamanho do espaço entre cada palavra */
+  letter-spacing: 2px; /* tamanho do espaÃ§o entre cada letra */
+  word-spacing: 10px; /* tamanho do espaÃ§o entre cada palavra */
   text-indent: 50px; /* tamanho da margem da primeira linha do texto */
 }
