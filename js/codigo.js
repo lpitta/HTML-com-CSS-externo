@@ -1,3 +1,3 @@
 function dizOla(nome) {
-   alert("Ol·, " + nome);
+   alert("Ol√° " + nome);
 }
