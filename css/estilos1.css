@@ -1,16 +1,15 @@
 body {
   font-family: "Arial", "Helvetica", sans-serif;
-}
-
-body {
   border-color: red;
   border-style: solid;
   border-width: 5px;
+  
 }
 
-/* deixando o fundo ridículo */
+/* Deixando o fundo ridículo */
 body {
-  background: #b3d9ff;
+  background: #ffe6f0;
+  /* #b3d9ff: Azul claro ; #ffe6f0: Rosa claro */
   /* Escolher o codigo da cor aqui https://www.w3schools.com/colors/colors_picker.asp */
 }
 
@@ -26,7 +25,8 @@ body {
 }
 
 h1 {
-  background-image: url(imagens/sobre-background.jpg);
+  background-image: url("imagens/sobre-background.jpg");
+  text-indent: 30px; /* tamanho da margem da primeira linha do texto */
 }
 
 h3 {
@@ -35,13 +35,22 @@ h3 {
 }
 
 p {
-background-color: #ffff80;
-color: #2B6B2B;
+  background-color: #ffff80;
+  color: #2B6B2B;
+  /* 
+  Cor de fundo
+    #ffff80: Amarelo claro
+    #bfff80: Verde agua
+  
+  Cor do texto
+    #2B6B2B: Verde escuro
+    #0066cc: Azul escuro 40%
+  */
 }
 
 p {
   line-height: 10px; /* tamanho da altura de cada linha */
   letter-spacing: 2px; /* tamanho do espaço entre cada letra */
   word-spacing: 10px; /* tamanho do espaço entre cada palavra */
-  text-indent: 50px; /* tamanho da margem da primeira linha do texto */
+  text-indent: 30px; /* tamanho da margem da primeira linha do texto */
 }
