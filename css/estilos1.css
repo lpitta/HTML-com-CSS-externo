@@ -11,6 +11,8 @@ body {
   background: #ffe6f0;
   /* #b3d9ff: Azul claro ; #ffe6f0: Rosa claro */
   /* Escolher o codigo da cor aqui https://www.w3schools.com/colors/colors_picker.asp */
+  background-image: url("sobre-background.jpg");
+  background-color: #cccccc;
 }
 
 #cabecalho {
