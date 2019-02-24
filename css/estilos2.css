@@ -8,9 +8,10 @@ body {
   border-width: 5px;
 }
 
-/* deixando o fundo ridículo */
+/* Deixando o fundo ridÃ­culo */
+/* Utilizar este seletor de cores egerar o vodigo da cor: www.w3schools.com/HTML/html_colors.asp */
 body {
-  background: ;
+  background: tomato;
 }
 
 #cabecalho {
@@ -40,7 +41,7 @@ color: #2B6B2B;
 
 p {
   line-height: 10px; /* tamanho da altura de cada linha */
-  letter-spacing: 2px; /* tamanho do espaço entre cada letra */
-  word-spacing: 10px; /* tamanho do espaço entre cada palavra */
+  letter-spacing: 2px; /* tamanho do espaÃ§o entre cada letra */
+  word-spacing: 10px; /* tamanho do espaÃ§o entre cada palavra */
   text-indent: 50px; /* tamanho da margem da primeira linha do texto */
 }
